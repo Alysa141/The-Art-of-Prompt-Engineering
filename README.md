@@ -1,8 +1,8 @@
 # The Art of Prompt Engineering
 ## Author : Cognitive Class AI
-
+---
 Mentee assigment from IBM Advance @ Infinite Learning
-Course completion of The Art of Prompt Engineering from CognitiveClass.ai
+Course Completition of Build A Chatbot Using LLM from CognitiveClass.ai
 ---
 
 ## Mentee info 
